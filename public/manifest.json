@@ -1,0 +1,17 @@
+{
+  "short_name": "NariRaksha",
+  "name": "NariRaksha — Safety & Emergency Support Platform",
+  "icons": [
+    {
+      "src": "/shield-check.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "AI-assisted women's safety & emergency support web platform."
+}
